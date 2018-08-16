@@ -1,3 +1,8 @@
+## Test links
+
+Test page 1: {{ site.baseurl }}{% post_url 2018-08-16-test-page-1 %}
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/jskaalum/jskaalum.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
