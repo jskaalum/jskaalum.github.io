@@ -1,6 +1,6 @@
 ## Test links
 
-Test page 1: {{ site.baseurl }}{% post_url 2018-08-16-test-page-1 %}
+Test page 1: [{{ site.baseurl }}{% post_url 2018-08-16-test-page-1 %}]
 
 
 ## Welcome to GitHub Pages
