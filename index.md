@@ -1,10 +1,18 @@
 ## Pages
 
-[Page 1]({% post_url 2018-08-16-page-1 %})
+[Page 1 Title](https://www.jskaalum.github.io/page-1)
 
-[Page 2]({% post_url 2018-08-16-page-2 %})
+[Page 2 Title](https://www.jskaalum.github.io/page-2)
 
-[Page 3]({% post_url 2018-08-16-page-3 %})
+[Page 3 Title](https://www.jskaalum.github.io/page-3)
+
+
+
+[Post 1]({% post_url 2018-08-16-page-1 %})
+
+[Post 2]({% post_url 2018-08-16-page-2 %})
+
+[Post 3]({% post_url 2018-08-16-page-3 %})
 
 
 ## Welcome to GitHub Pages
