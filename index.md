@@ -1,10 +1,10 @@
 ## Pages
 
-[Page 1 Title](http://www.jskaalum.github.io/page-1)
+[Page 1 Title](pages/page-1)
 
-[Page 2 Title](http://www.jskaalum.github.io/page-2)
+[Page 2 Title](pages/page-2)
 
-[Page 3 Title](http://www.jskaalum.github.io/page-3)
+[Page 3 Title](pages/page-3)
 
 
 
