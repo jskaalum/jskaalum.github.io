@@ -10,5 +10,5 @@ Aliquam rhoncus lacinia auctor. Sed posuere, ante eget egestas aliquet, risus ne
 
 Vestibulum vulputate lectus quis nisl egestas ornare. Proin nec risus tincidunt, congue libero ac, molestie lacus. Sed accumsan, mi a lacinia imperdiet, ante erat interdum eros, eget posuere mauris mauris a arcu. Praesent rutrum imperdiet urna, vitae dictum nibh tempus ac. Aenean venenatis vulputate nisl, quis rutrum purus cursus at. Donec suscipit ullamcorper magna id fringilla. Curabitur sodales, sem sed commodo volutpat, lacus nunc dignissim sem, maximus pellentesque lorem libero a lorem. Praesent eu gravida odio. 
 
-[Home](https://www.jskaalum.github.io/index)
+[Home](https://www.jskaalum.github.io)
 [Next Page](page-2)
